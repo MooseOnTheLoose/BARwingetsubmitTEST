@@ -15,7 +15,7 @@ License: GPL2
 LicenseUrl: https://github.com/beyond-all-reason/Beyond-All-Reason/blob/master/LICENSE.md
 Copyright: Copyright © 2022 BAR Team
 ShortDescription: Real-Time Strategy Redefined
-Description: Free Real Time Strategy Game with a grand scale and full physical simulation in a sci-fi setting.
+Description: Free Real-Time Strategy Game with a grand scale and full physical simulation in a sci-fi setting.
 Moniker: BAR
 ReleaseNotes: Update engine to 1354-g72b2d55
 ReleaseNotesUrl: https://github.com/beyond-all-reason/BYAR-Chobby/releases/tag/v1.1779.0
