@@ -19,7 +19,6 @@ Description: Free Real Time Strategy Game with a grand scale and full physical s
 Moniker: BAR
 ReleaseNotes: Update engine to 1354-g72b2d55
 ReleaseNotesUrl: https://github.com/beyond-all-reason/BYAR-Chobby/releases/tag/v1.1779.0
-InstallationNotes: Installation of Beyond All Reason complete.
 Documentations:
 - DocumentUrl: https://www.beyondallreason.info/faq
 ManifestType: defaultLocale
