@@ -1,0 +1,14 @@
+# Created using wingetcreate 1.1.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.2.0.schema.json
+
+PackageIdentifier: BAR_RTS.Beyond-All-Reason
+PackageVersion: 1.1779.0
+PackageLocale: en-US
+Publisher: Team Beyond All Reason
+PackageName: Beyond All Reason
+License: GPL2
+Copyright: Copyright © 2022 gajop
+ShortDescription: Free Real Time Strategy Game with a grand scale and full physical simulation in a sci-fi setting.
+ManifestType: defaultLocale
+ManifestVersion: 1.2.0
+
